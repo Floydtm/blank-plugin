@@ -1,1 +1,4 @@
-js/html5.js
+**/*.min.js
+
+#Cherry Framework
+cherry-framework/**/*.js
